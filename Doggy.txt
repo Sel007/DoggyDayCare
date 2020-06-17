@@ -1,0 +1,5 @@
+Anwser phone and state company name
+Take customers first and last name
+Take customers phone number
+Confirm animal for Doggy Day Care
+Ask what day they want to reserve
