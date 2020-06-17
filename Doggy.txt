@@ -6,3 +6,6 @@ Ask what day they want to reserve
 Ask how many days they want
 Ask what hours they want
 Ask who will pick up
+Ask if they would like to add a bath
+Ask if they would like a walk
+Ask if they would like a treat
