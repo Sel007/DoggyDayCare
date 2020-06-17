@@ -7,5 +7,7 @@ Ask how many days they want
 Ask what hours they want
 Ask who will pick up
 Ask if they would like to add a bath
+Ask if they would like nails trimmed
+Ask if they would like a hair cut
 Ask if they would like a walk
 Ask if they would like a treat
